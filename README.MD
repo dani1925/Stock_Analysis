@@ -63,4 +63,4 @@ It is difficult to conclude that one algorithm is better than another based sole
 
 The single For loop algorithm works only because we know from the beginning that the data is perfectly organized by day.
 
-For this specific case, the use of a single for loop was the most optimal way to solve the problem, but it does not mean that it will always be the case. It depends on the organization of the data that we want to analyze.
+For this specific case, the use of a single for loop was the most optimal way to solve the problem, but it does not mean that it will always be the case. It depends on the organization of the data that we want to analyze..
